@@ -1,0 +1,11 @@
+.wrapper {
+  margin: 10px 0;
+}
+
+.input {
+  width: 100%;
+  padding: 6px;
+  background: black;
+  color: #f2d9ae;
+  border: 1px solid #444;
+}

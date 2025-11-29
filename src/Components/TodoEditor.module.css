@@ -1,0 +1,14 @@
+.input {
+  width: 70%;
+  padding: 6px;
+  background: black;
+  color: #f2d9ae;
+  border: 1px solid #555;
+}
+
+.button {
+  background: #3a3a3a;
+  color: #f2d9ae;
+  border: none;
+  padding: 7px;
+}
